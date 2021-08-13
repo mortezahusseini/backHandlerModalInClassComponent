@@ -8,13 +8,16 @@
     "post-update": "yarn upgrade --latest"
   },
   "dependencies": {
+    "@types/react": "17.0.15",
     "next": "latest",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "@types/react": "17.0.15",
     "react-responsive-modal": "^6.0.1"
   },
   "license": "MIT",
   "keywords": [],
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "typescript": "^4.3.5"
+  }
 }
