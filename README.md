@@ -1,4 +1,4 @@
-# create modal component in class react component, typescript and next.js
+# modal with react  class component, typescript and next.js
 
 This example shows the most usage of modal component in : `pages/index.tsx`. create : `custom-modal` component and see what happend.
 
